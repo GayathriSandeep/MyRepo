@@ -5,7 +5,6 @@ works fine,30 seconds to give answer and many more...
 This project is created by Rox Studio developer Just for Fun.
 Lets Begin the Game.... !!!!
 
-
 # Features
 + You have 7 Lifeline to give a Answer(Same as Provided on Television Show)
 + You will get unique question everytime
@@ -14,6 +13,8 @@ Lets Begin the Game.... !!!!
 + You can use Practise zone for Practicing your General knowledge
 + You can watch your high Score
 
+Get Ready to Play.. 
+Wishing you All the best !!!
 
 
 
