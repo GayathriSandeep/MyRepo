@@ -14,7 +14,7 @@ public class Simple {
      
         try{
         Simple x=new Simple(); 
-        Scanner m=new Scanner(System.in);
+        Scanner m=new Scanne(System.in);
  
   
         Long Logo;
