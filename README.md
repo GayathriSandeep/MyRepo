@@ -4,6 +4,8 @@ works fine,30 seconds to give answer and many more...
 
 This project is created by Rox Studio developer Just for Fun.
 Lets Begin the Game.... !!!!
+Count Down Starts 1!!! 2!!! 3!!!
+
 
 # Features
 + You have 7 Lifeline to give a Answer(Same as Provided on Television Show)
