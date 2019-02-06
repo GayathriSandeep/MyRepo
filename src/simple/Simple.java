@@ -2,7 +2,7 @@ package simple;
 import java.sql.*;
 import java.util.*;
 
-public class Simple {
+public class Simple 
     int ap=0,ph=0,ff=0,fq=0,pp=0,ask=0,dd=0;
 
     public static void main(String args[]) throws Exception{
